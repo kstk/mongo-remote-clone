@@ -1,5 +1,5 @@
 {
-  "name": "mongo-remote-clone",
+  "name": "@kstk/mongo-remote-clone",
   "version": "0.0.1",
   "description": "clone a mongodb from anywhere to anywhere",
   "main": "mongo-remote-clone.js",
